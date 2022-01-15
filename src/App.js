@@ -10,7 +10,7 @@ function App() {
         <Navbar />
 
         <main>
-          Content
+
         </main>
       </div>
     </Router>
